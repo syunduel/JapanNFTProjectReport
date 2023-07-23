@@ -1,113 +1,81 @@
 
 # 業種：IP
 
-## プロジェクト：Airbits
-
-## プロジェクト：AnimeLoot
-
-## プロジェクト：APP-GRG
-
-## プロジェクト：ASAGI
-
-## プロジェクト：Bride Girls Collection
-
 ## プロジェクト：BLUBEA
+### レポーター
+みーちゃん
 
 ## プロジェクト：CANDY GIRL
+### 注力分野
+IP
 
-## プロジェクト：CosplayPunksKids
+### 特色
+・世界的アーティスト・天野喜孝氏が発信するファインアートのNFTコレクションです。
+・CANDY GIRLたちをアート・ミュージック・ストーリー・ファッション・フード・デジタルを複合的に掛け合わせた、グローバル・エンターテイメントを展開していきます。
 
-## プロジェクト：d
+### コメント
+・TOKYO GIRLS COLLECTION地方創生プロジェクトのキービジュアルにCANDY GIRLが採用され、KITAKYUSHUのキービジュアルが公開されました。 https://twitter.com/TGCnews/status/1676825805283037185
+・ロードマップに従って、3Dモデリングや音楽制作を進めているようだが、制作状況は公開されていません。
 
-## プロジェクト：Dreamin' Divers Project 
+### リンク
 
-## プロジェクト：Edomin
+#### コレクション
+- CANDY GIRL
+  - https://tofunft.com/collection/candygirl
 
-## プロジェクト：N3 Labs
-Flower Lolita
+#### SNS
+- Twitter
+  - https://twitter.com/candygirl_nft
+- Twitter(JPN)
+  - https://twitter.com/candygirlnft_jp
 
-## プロジェクト：FREEMINTBOYZ
+#### Web
+- Website
+  - https://candygirl-nft.com/
 
-## プロジェクト：GenerativeIllust M0E
+### メンバー
 
-## プロジェクト：Generativemasks
+#### ファウンダー
+Fukuyama
 
-## プロジェクト：GUILD-XX COSPLAY PUNKS
+#### 運営
+株式会社ツインプラネット
+Naruya
+himeno
+Masa @m_web3
+Sota @Sota_Web3
+Suguru
 
-## プロジェクト：IROIRO
+### 関連プロジェクト
+なし
 
-## プロジェクト：JAPAN DAO
+### レポーター
+Ichiro @IchiroTech
+
 
 ## プロジェクト：JUNKeeeeS
-
-## プロジェクト：KawaiiGirlNFT
-
-## プロジェクト：Keeei!! G.O.A.T Buddy's
-
-## プロジェクト：Kumaleon
-
-## プロジェクト：Mazegori
-
-## プロジェクト：MEGAMI
-
-## プロジェクト：Metaani
-
-## プロジェクト：META KAWAII
-
-## プロジェクト：MONKEYS -KURENAI-
-
-## プロジェクト：NAGOMI
+### レポーター
+みーちゃん @xxjoin_cryptoxx
 
 ## プロジェクト：Ninja DAO
 
-## プロジェクト：Neo Tokyo Punks
-
-## プロジェクト：nokke
-
-## プロジェクト：NounsDAOJapan
-NounishCNP
-
-## プロジェクト：Oasys
-
 ## プロジェクト：ODEN DAO
-
-## プロジェクト：Otaku Culture Studio
-
-## プロジェクト：OssanDAO
+### レポーター
+みーちゃん @xxjoin_cryptoxx
 
 ## プロジェクト：PANDAO
 
-## プロジェクト：pNouns
-
 ## プロジェクト：SoudanNFT
-
-## プロジェクト：SWAGGA
 
 ## プロジェクト：TheMafiaAnimals
 
-## プロジェクト：Tokyo Pop Girls Collection
-
-## プロジェクト：ZQN-DAO
-
-## プロジェクト：TOKYO NFT LAB
-
-## プロジェクト：Usagiduck
-
-## プロジェクト：Very long CNP
-
-## プロジェクト：WAFUKU LOVE
-
-## プロジェクト：Weebox
-
 ## プロジェクト：What's UP John!
-
-## プロジェクト：ZIELCHAIN
 
 ## プロジェクト：キャラDAO
 
-## プロジェクト：ないとーファンクラブ
 
-## プロジェクト：倭の国
+
+
 
 # 業種：漫画・アニメ
 
@@ -131,13 +99,21 @@ NounishCNP
 
 ## プロジェクト：Kawaii Meta Collage
 
+## プロジェクト：Metaani
+
 ## プロジェクト：Metabatch
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
 
 ## プロジェクト：METAPYLON
 
 ## プロジェクト：OASIS
 
 ## プロジェクト：START Land
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
 
 ## プロジェクト：カムイバース
 
@@ -167,6 +143,12 @@ NounishCNP
 
 ## プロジェクト：WAGMI Music
 
+# 業種：アパレル
+
+## プロジェクト：META KAWAII
+
+## プロジェクト：Neo Tokyo Punks
+
 # 業種：食品
 
 ## プロジェクト：AbyssCrypto
@@ -176,6 +158,8 @@ NounishCNP
 ## プロジェクト：
 
 # 業種：店舗
+
+## プロジェクト：Dreamin' Divers Project 
 
 ## プロジェクト：PORT
 
@@ -188,6 +172,8 @@ NounishCNP
 ## プロジェクト：TokyoAlternativeGirls
 
 # 業種：旅行
+
+## プロジェクト：Airbits
 
 ## プロジェクト：Traveler's Canvas
 
@@ -210,7 +196,13 @@ NounishCNP
 ## プロジェクト：UPA!
 
 
-# 業種：
+# 業種：？？？
+
+## プロジェクト：APP-GRG
+
+## プロジェクト：ASAGI
+
+## プロジェクト：Bride Girls Collection
 
 ## プロジェクト：CNP Charm
 
@@ -218,23 +210,117 @@ NounishCNP
 
 ## プロジェクト：CNP Philippines
 
+## プロジェクト：CosplayPunksKids
+
 ## プロジェクト：CryptoNinja Children
 
+## プロジェクト：d
+
+## プロジェクト：Edomin
+
+## プロジェクト：N3 Labs
+Flower Lolita
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
+
+## プロジェクト：FREEMINTBOYZ
+
+## プロジェクト：GenerativeIllust M0E
+
+## プロジェクト：Generativemasks
+
+## プロジェクト：GUILD-XX COSPLAY PUNKS
+
+## プロジェクト：IROIRO
+
+## プロジェクト：JAPAN DAO
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
+
+## プロジェクト：KawaiiGirlNFT
+
+## プロジェクト：Keeei!! G.O.A.T Buddy's
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
+## プロジェクト：Kumaleon
+
+## プロジェクト：Mazegori
+
+## プロジェクト：MEGAMI
+
+## プロジェクト：MONKEYS -KURENAI-
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
+
+## プロジェクト：NAGOMI
+
+## プロジェクト：nokke
+
+## プロジェクト：NounsDAOJapan
+NounishCNP
+
+## プロジェクト：Oasys
+
+
+## プロジェクト：Otaku Culture Studio
+
+## プロジェクト：OssanDAO
+
+## プロジェクト：pNouns
+
+## プロジェクト：SWAGGA
+
+## プロジェクト：Tokyo Pop Girls Collection
+
+## プロジェクト：ZQN-DAO
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
+## プロジェクト：TOKYO NFT LAB
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
+
+## プロジェクト：Usagiduck
+
+## プロジェクト：Very long CNP
+
+## プロジェクト：WAFUKU LOVE
+
+## プロジェクト：Weebox
+
+## プロジェクト：ZIELCHAIN
+
+## プロジェクト：ないとーファンクラブ
+
 ## プロジェクト：人妻DAO
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
+## プロジェクト：倭の国
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
+
+***
+
+# ===== フォーマット =====
+
 
 # 業種：
 
-
 ・現在の分野の選択肢（随時追加）
 PFP、ユーティリティ、IP、イベント、ゲーム、メタバース、音楽、
+
 ## プロジェクト
 プロジェクト名を記載します。
 
-### コレクション
-発行している主なNFTコレクションを記載します。
-
 ### 注力分野
-業種と同じものを使います。
+どういう分野のことをしているかを記載します。
 
 ### 特色
 NFTプロジェクトの特色を端的に記載します。
@@ -244,15 +330,25 @@ NFTプロジェクトの特色を端的に記載します。
 
 ### リンク
 
-#### 公式
+#### コレクション
+発行している主なNFTコレクションを記載します。
+
+#### SNS
 公式TwitterアカウントやHPを記載します。
+
+#### Web
+公式TwitterアカウントやHPを記載します。
+
+### メンバー
 
 #### ファウンダー
 ファウンダーを記載します。
 
-#### 運営メンバー
+#### 運営
 運営メンバーを記載します
 
 ### 関連プロジェクト
 関連しているプロジェクトがあれば記載します
 
+### レポーター
+このレポートを書いた人を記載します
