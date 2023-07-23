@@ -7,15 +7,16 @@
 
 ## プロジェクト：CANDY GIRL
 ### 注力分野
-IP
+- IP
 
 ### 特色
-・世界的アーティスト・天野喜孝氏が発信するファインアートのNFTコレクションです。
-・CANDY GIRLたちをアート・ミュージック・ストーリー・ファッション・フード・デジタルを複合的に掛け合わせた、グローバル・エンターテイメントを展開していきます。
+- 世界的アーティスト・天野喜孝氏が発信するファインアートのNFTコレクションです。
+- CANDY GIRLたちをアート・ミュージック・ストーリー・ファッション・フード・デジタルを複合的に掛け合わせた、グローバル・エンターテイメントを展開していきます。
 
 ### コメント
-・TOKYO GIRLS COLLECTION地方創生プロジェクトのキービジュアルにCANDY GIRLが採用され、KITAKYUSHUのキービジュアルが公開されました。 https://twitter.com/TGCnews/status/1676825805283037185
-・ロードマップに従って、3Dモデリングや音楽制作を進めているようだが、制作状況は公開されていません。
+- TOKYO GIRLS COLLECTION地方創生プロジェクトのキービジュアルにCANDY GIRLが採用され、KITAKYUSHUのキービジュアルが公開されました。
+  - https://twitter.com/TGCnews/status/1676825805283037185
+- ロードマップに従って、3Dモデリングや音楽制作を進めているようだが、制作状況は公開されていません。
 
 ### リンク
 
@@ -36,21 +37,24 @@ IP
 ### メンバー
 
 #### ファウンダー
-Fukuyama
+- Fukuyama
 
 #### 運営
-株式会社ツインプラネット
-Naruya
-himeno
-Masa @m_web3
-Sota @Sota_Web3
-Suguru
+- 株式会社ツインプラネット
+- Naruya
+- himeno
+- Masa @m_web3
+- Sota @Sota_Web3
+- Suguru
 
 ### 関連プロジェクト
-なし
+- なし
 
 ### レポーター
-Ichiro @IchiroTech
+- Ichiro @IchiroTech
+
+
+## プロジェクト：CNP / CryptoNinja Partners
 
 
 ## プロジェクト：JUNKeeeeS
@@ -68,6 +72,9 @@ Ichiro @IchiroTech
 ## プロジェクト：SoudanNFT
 
 ## プロジェクト：TheMafiaAnimals
+
+事業指針
+https://twitter.com/RiBOX15/status/1682907557353111554
 
 ## プロジェクト：What's UP John!
 
