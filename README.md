@@ -1,0 +1,2 @@
+# JapanNFTProjectReport
+日本のNFTプロジェクトのレポートです
