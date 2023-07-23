@@ -16,7 +16,7 @@
 ### コメント
 - TOKYO GIRLS COLLECTION地方創生プロジェクトのキービジュアルにCANDY GIRLが採用され、KITAKYUSHUのキービジュアルが公開されました。
   - https://twitter.com/TGCnews/status/1676825805283037185
-- ロードマップに従って、3Dモデリングや音楽制作を進めているようだが、制作状況は公開されていません。
+- ロードマップに従って、3Dモデリングや音楽制作を進めているようですが、制作状況は公開されていません。
 
 ### リンク
 
@@ -26,9 +26,9 @@
 
 #### SNS
 - Twitter
-  - https://twitter.com/candygirl_nft
+  - @candygirl_nft
 - Twitter(JPN)
-  - https://twitter.com/candygirlnft_jp
+  - @candygirlnft_jp
 
 #### Web
 - Website
@@ -55,6 +55,68 @@
 
 
 ## プロジェクト：CNP / CryptoNinja Partners
+### 注力分野
+- IP
+- ゲーム
+- 店舗
+- メタバース
+
+### 特色
+- CNPは「クリプトニンジャ」の頼れる相棒たちをNFT化したもので、コレクション数が22,222体と多いのが特徴です。
+- 「バーニン」という、定期的に既存NFTを新キャラと交換する仕組みがあります。
+- LINE NFTなど多くのコレクションを出しています。
+- アプリやゲームを出したり、メタバースのLANDを作るなどしています。
+- 実店舗で特典が受けられるCNP OWNERSやふるさと納税も行っています。
+
+### コメント
+- 7月にゲームアプリ「CNPバーニンウォーズ」を出し、AppStore総合14位を取るなど検討しています。
+- ふるさと納税コレクションは白浜町が現在も販売中で、以前の即完売に比べると落ち着いてきているように見えます。
+
+### リンク
+
+#### コレクション
+- CNP / CryptoNinja Partners
+  - https://opensea.io/ja/collection/cryptoninjapartners-v2
+- CNP Makimono
+  - https://opensea.io/ja/collection/cnp-makimono
+- furusatocnp
+  - https://opensea.io/collection/furusatocnp
+- furusatocnp2023
+  - https://opensea.io/collection/furusatocnp2023
+- CNP Toys（LINE NFT）
+  - https://nft.line.me/store/brand/79
+- CNP Villains（LINE NFT）
+  - https://nft.line.me/store/brand/99
+- CNPトレジャースタンプ（LINE NFT）
+  - https://nft.line.me/store/brand/128
+- CNPバーニンウォーズ（LINE NFT）
+  - https://nft.line.me/store/brand/176
+
+#### SNS
+- Twitter
+  - @cnp_en
+- LINE
+  - https://page.line.me/?accountId=cnp-official
+
+#### Web
+- Website
+  - https://www.cryptoninja-partners.xyz/
+- 保有特典サイト / CNP Owners
+  - https://www.cnpowners.jp/
+
+### メンバー
+
+#### ファウンダー
+- road @road_ninjart
+
+#### 運営
+- 株式会社バケット
+
+### 関連プロジェクト
+- CryptoNinja
+
+### レポーター
+- Ichiro @IchiroTech
 
 
 ## プロジェクト：JUNKeeeeS
