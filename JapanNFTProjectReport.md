@@ -132,6 +132,85 @@
 ## プロジェクト：PANDAO
 
 ## プロジェクト：SoudanNFT
+### 注力分野
+- IP
+- アドバイザー
+
+### 特色
+- Love Addicted Girls、AstarPrince、すとっぴの3つのコレクションを展開しています。
+- 「いつ何時でも、誰の相談で設ける」をコンセプトに、個人や企業の相談を受け、必要に応じてサポートを行っています。
+- 株式会社電通グループ、株式会社ハンディデジタル、KDDI株式会社、株式会社A3、株式会社HashPalette、MAG HUB PTE. LTD.等との事業実績があります。
+
+### コメント
+- レイラちゃんがVTuberとしてデビューしました。週2回ほど配信を行っています。
+- すとっぴの配布がはじまっています。誰でも一つは貰えます。
+
+### リンク
+
+#### コレクション
+- Love Addicted Girls
+  - https://opensea.io/collection/love-addicted-girls
+- AstarPrince
+  - https://opensea.io/collection/astarprince
+- Astar Prince Another
+  - https://tofunft.com/collection/astar-prince-another/items
+- すとっぴ
+  - https://opensea.io/collection/stoppi
+- Love Addicted Girls Memories
+  - https://opensea.io/collection/love-addicted-girls-memories
+- sw2023 gourmet
+  - https://market.alpha-u.io/collections/sw23GT
+  - https://opensea.io/collection/sw2023-gourmet
+- すとっぴ×αU
+  - https://market.alpha-u.io/collections/Stoppi_alpha_U
+  - https://opensea.io/collection/stoppi-x-alpha-u
+
+
+#### SNS
+- SoudanNFT_JP
+  - @SoudanNFT
+- SoudanNFT_EN
+  - @SoudanNFT_en
+- レイラ Layla
+  - @Layla_LAG
+- Laniven@AstarPrince
+  - @Astar_Laniven
+
+#### Web
+- HP
+  - https://soudan-nft.xyz/
+- 企業向けHP
+  - https://about.soudan-nft.com/
+
+### メンバー
+
+#### ファウンダー
+- Crypto Muscle @crypto_muscle_
+- Kuramin @Kuramin_Nft
+
+#### 運営
+- Fowler @Fowler_virtual
+- Kai-shiba @kai_shiba_nft
+- millco @l_mill_19
+- Thomas Bacon
+- Ichiro @IchiroTech
+- HOPE @rewlegal
+- Nemuko @gohannemunemu
+- ineoke @inaho_orchestra
+- David.C
+- てんでん @ytenden
+- mizusaki @mizusakiyuuki
+- 綾波Pay @Pay415715301
+- SAI @everlight_sai
+- Kiku-chi @kk27Chi
+- Hinata @hinataaNFT
+
+### 関連プロジェクト
+- Very long CNP
+
+### レポーター
+- Ichiro @IchiroTech
+
 
 ## プロジェクト：TheMafiaAnimals
 
