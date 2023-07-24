@@ -181,6 +181,8 @@
   - https://soudan-nft.xyz/
 - 企業向けHP
   - https://about.soudan-nft.com/
+- Layla Ch. レイラ
+  - https://www.youtube.com/@laylach_nft
 
 ### メンバー
 
