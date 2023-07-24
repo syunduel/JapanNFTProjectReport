@@ -159,8 +159,8 @@
 ### メンバー
 
 #### ファウンダー
-ikehaya @IHayato
-Rii2 @rii2_4
+- ikehaya @IHayato
+- Rii2 @rii2_4
 
 #### 運営
 
