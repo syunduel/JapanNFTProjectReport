@@ -124,6 +124,72 @@
 みーちゃん @xxjoin_cryptoxx
 
 ## プロジェクト：Ninja DAO
+### 注力分野
+- IP
+- アニメ
+- DAO
+
+### 特色
+- 日本のNFTコミュニティの中で最大規模を誇ります。
+- CryptoNinjaをWeb3時代のIPにするため、誰もが二次創作や商業利用可能なガイドラインになっており、多くの二次創作、関連プロジェクトが生まれています。
+- コミュニティのお財布にお金を集め、ホルダーの投票によって使うことができるNounsの仕組みを導入しています。
+
+### コメント
+- CryptoNinjaのアニメ化プロジェクトとして、2023年10月から「忍ばない！クリプトニンジャ咲耶」がTV放映されます。
+- CryptoNinjaの37番目のキャラクター「イズナ」が公開されました。早速多くのファンアートが作られています。
+
+### リンク
+
+#### コレクション
+- CryptoNinja NFT
+  - https://opensea.io/collection/crypto-ninja-nft
+- CryptoNinja Nouns
+  - https://opensea.io/ja/collection/cnnouns
+- Musubi Collection
+  - https://opensea.io/collection/musubicollection
+
+#### SNS
+- Ninja DAO @CryptoNinja_NFT
+
+#### Web
+- HP
+  - https://www.ninja-dao.com/
+
+
+### メンバー
+
+#### ファウンダー
+ikehaya @IHayato
+Rii2 @rii2_4
+
+#### 運営
+
+
+### 関連プロジェクト
+- CNP / CryptoNinja Partners
+- CNP Prince
+- クノイチ学園
+- CNP Jobs
+- CryptoNinja Ordinals
+- CryptoNinja 3D
+- 瀬織ジェネ
+- CNP Reborn
+- SattvaSoulSupporters
+- CryptoNinja Holiday -in WAFUKU-
+- CRYPTOFANTASY
+- CryptoNinjaSupporters
+- CNP Charm
+- CNP Rookies
+- CNP Philippines
+- CNP Gotouchi
+- CNPMusic
+- CryptoNinja Children
+- CNPStudents
+- CNPinfant
+- Very long CNP
+
+### レポーター
+- Ichiro @IchiroTech
 
 ## プロジェクト：ODEN DAO
 ### レポーター
@@ -209,6 +275,7 @@
 
 ### 関連プロジェクト
 - Very long CNP
+- LAGARt 3D AR NFT
 
 ### レポーター
 - Ichiro @IchiroTech
@@ -327,6 +394,14 @@ https://twitter.com/RiBOX15/status/1682907557353111554
 
 ## プロジェクト：Traveler's Canvas
 
+# 業種：プラットフォーム
+
+## プロジェクト：JAPAN DAO
+### レポーター
+みーちゃん @xxjoin_cryptoxx
+
+## プロジェクト：UPA!
+
 # 業種：法務
 
 ## プロジェクト：MOSQUITO FAMILY
@@ -341,12 +416,7 @@ https://twitter.com/RiBOX15/status/1682907557353111554
 
 ## プロジェクト：HeroicAnimals
 
-# 業種：機能
-
-## プロジェクト：UPA!
-
-
-# 業種：？？？
+# 業種：未分類
 
 ## プロジェクト：APP-GRG
 
@@ -383,10 +453,6 @@ Flower Lolita
 ## プロジェクト：GUILD-XX COSPLAY PUNKS
 
 ## プロジェクト：IROIRO
-
-## プロジェクト：JAPAN DAO
-### レポーター
-みーちゃん @xxjoin_cryptoxx
 
 
 ## プロジェクト：KawaiiGirlNFT
