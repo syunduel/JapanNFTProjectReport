@@ -114,6 +114,17 @@
 
 ### 関連プロジェクト
 - CryptoNinja
+- CNP Prince
+- CNP Jobs
+- CNP Reborn
+- CNP Charm
+- CNP Rookies
+- CNP Philippines
+- CNP Gotouchi
+- CNPMusic
+- CNPStudents
+- CNPinfant
+- Very long CNP
 
 ### レポーター
 - Ichiro @IchiroTech
@@ -167,26 +178,16 @@
 
 ### 関連プロジェクト
 - CNP / CryptoNinja Partners
-- CNP Prince
 - クノイチ学園
-- CNP Jobs
 - CryptoNinja Ordinals
 - CryptoNinja 3D
 - 瀬織ジェネ
-- CNP Reborn
 - SattvaSoulSupporters
 - CryptoNinja Holiday -in WAFUKU-
 - CRYPTOFANTASY
 - CryptoNinjaSupporters
-- CNP Charm
-- CNP Rookies
-- CNP Philippines
-- CNP Gotouchi
-- CNPMusic
 - CryptoNinja Children
-- CNPStudents
-- CNPinfant
-- Very long CNP
+
 
 ### レポーター
 - Ichiro @IchiroTech
