@@ -158,6 +158,8 @@
   - https://opensea.io/ja/collection/cnnouns
 - Musubi Collection
   - https://opensea.io/collection/musubicollection
+- CryptoAnime Labs - CryptoNinja - ShurikenNFT - Before Staking
+  - https://opensea.io/collection/cal-cryptoninja-shurikennft-beforestaking
 
 #### SNS
 - Ninja DAO @CryptoNinja_NFT
@@ -283,16 +285,109 @@
 
 
 ## プロジェクト：TheMafiaAnimals
+### 注力分野
+- IP
 
-事業指針
-https://twitter.com/RiBOX15/status/1682907557353111554
+### 特色
+- TheMafiaAnimals (TMA)は動物×マフィアの世界でお送りする【キャラクター】×【NFT】×【コミュニティー】をテーマにした作品群です。
+- Ninja DAOのCryptoNinjaのデザインを担当しているRii2（リツ）さんがファウンダーで、「己だけでなく皆もたのしませる」という理念のもと集まったコミュニティです。
+- 1点もののTheMafiaAnimalsを幹部とし、ジェネラティブのTheMafiaAnimals Soldiersがその配下という役割になっています。
+- TheMafiaAnimals Soldiersには、ミッションや抗争中でトークンを貯め、TMAsを育成、強化できるギミックが入っています。
+
+### コメント
+- ステーキングなどにかかるガス代が高いため、別途オフチェーンのポイントの仕組みを開発中です。
+- 事業指針が公開され、事業展開としてアバター販売やアパレル事業、ゲーム開発などが示されました。 https://twitter.com/RiBOX15/status/1682907557353111554
+
+### リンク
+
+#### コレクション
+- TheMafiaAnimals
+  - https://opensea.io/collection/themafiaanimals
+- TheMafiaAnimalsSoldiers
+  - https://opensea.io/collection/the-mafia-animals-soldiers-
+
+#### SNS
+- TheMafiaAnimals
+  - @RiBOX15
+
+#### Web
+- HP
+  - https://mafia-animals.com/
+
+### メンバー
+
+#### ファウンダー
+- Rii2(ﾘﾂ) @rii2_4
+
+#### 運営
+運営メンバーを記載します
+
+### 関連プロジェクト
+
+
+### レポーター
+- Ichiro @IchiroTech
 
 ## プロジェクト：What's UP John!
 
 ## プロジェクト：キャラDAO
+### 注力分野
+- IP
+
+### 特色
+- クリエイターのBUSONが「100年後も世界中で活躍するキャラクターをつくりたい！」という想いから立ち上げた公式コミュニティ。
+- Crypto Baby AnimalsとShikibuWorldは持っていれば利用規約に沿って商用利用が可能となっています。
+- 既にYouTubeチャンネル登録者数が14万人いて、お菓子のパッケージになった実績のあるキャラクターが使えることが特色で、実際にしきぶちゃんを使ったコーヒープロジェクトやキッチンカープロジェクトが生まれています。
+
+### コメント
+- キャラDAO際2023 in NAGOYAを9/10(日)に開催することが決定しました。 https://twitter.com/Character_DAO/status/1683344231233126400?s=20
+- コンテストを頻繁に開催しており、今はSKBイメージ音源コンペが開催されています。 https://twitter.com/Character_DAO/status/1684043365287878656?s=20
+
+### リンク
+
+#### コレクション
+- Crypto Baby Animals
+  - https://opensea.io/collection/cryptobabyanimals
+- ShikibuWorld
+  - https://opensea.io/collection/shikibu-world
+- Character DAO DX
+  - https://opensea.io/collection/character-dao-dx
+
+#### SNS
+- キャラDAO
+  - @Character_DAO
+- ShikibuWorld
+  - @Shikibu_nft
+- しきぶちゃん
+  - https://twitter.com/positiveshikibu
+- LINE
+  - https://line.me/R/ti/p/@875lenrn
+
+#### Web
+- キャラDAO
+  - https://charadao.com/
+- Crypto Baby Animals
+  - https://cryptobabyanimals.com/
+- ShikibuWorld
+  - https://shikibuworld.com/
+- BUSON【あるあるちゃんねる】
+  - https://www.youtube.com/c/BUSON2025
+- しきぶワールド
+  - https://www.youtube.com/@ShikibuWorld
+
+### メンバー
+
+#### ファウンダー
+- BUSON @BUSON2025
+
+#### 運営
 
 
+### 関連プロジェクト
+- BLUE CHIP
 
+### レポーター
+- Ichiro @IchiroTech
 
 
 # 業種：漫画・アニメ
